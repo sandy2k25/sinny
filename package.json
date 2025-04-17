@@ -1,5 +1,5 @@
 {
-  "name": "secure-embed-player",
+  "name": "embed-app",
   "version": "1.0.0",
   "description": "Secure TMDB movie embed player",
   "main": "server.js",
